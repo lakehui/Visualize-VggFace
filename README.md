@@ -1,5 +1,9 @@
 # Visualize-VggFace
 
+# Requirment
+caffe and build with "WITH_PYTHON_LAYER := 1" 
+
+# Experiment
 MtripLoss are added to conv4_3, conv5_3, fc6 and fc7, and the MEucliLoss is added to conv1_1
 ![image1](https://github.com/lakehui/Visualize-VggFace/tree/master/VGGFacenet/model/003.jpg)
 ![image2](https://github.com/lakehui/Visualize-VggFace/tree/master/VGGFacenet/model/backg.jpg)
